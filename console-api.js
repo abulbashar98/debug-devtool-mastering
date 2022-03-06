@@ -1,5 +1,7 @@
 
-
+// Resources:
+// 1. https://developer.chrome.com/docs/devtools/console/api/
+// 2. https://developer.chrome.com/docs/devtools/console/utilities/
 
 
 // Console Link: Shopping-cart-solution
@@ -41,3 +43,13 @@
 // 10. Get the event listers available in an object.....
 //      const phonePlus = $('#phone-plus')
 //       getEventListeners(phonePlus)
+
+
+
+
+// Console Link: fancy-slider
+
+// console.table() for array of objects!!!
+//  console.table(data.hits)
+
+// console.table(data.hits, ['previewURL','webformatURL','likes'])
